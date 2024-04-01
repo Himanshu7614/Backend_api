@@ -26,8 +26,6 @@ Create a .env file in the root directory and add the following environment varia
 
 plaintext
 PORT=3000
-MONGODB_URI=mongodb://localhost/authentication-api
-SESSION_SECRET=your_session_secret
 Start the server:
 
 bash
